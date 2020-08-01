@@ -15,3 +15,12 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.footer {
+  background: slategray;
+  padding: 50px;
+  font-size: 38px;
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+}
